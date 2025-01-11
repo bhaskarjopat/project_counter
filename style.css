@@ -3,7 +3,6 @@ body{
     color: white;
 }
 .container{
-    border: 5px outset lightseagreen;
     width: 95%;
     height: 100vh;
     margin: auto;
